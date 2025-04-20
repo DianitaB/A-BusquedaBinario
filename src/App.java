@@ -13,5 +13,5 @@ public class App {
 
         MetodoBusquedaBinario mbb = new MetodoBusquedaBinario(personas);
         mbb.showPersonByEdad();
-    }
+    }  
 }
